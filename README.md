@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkatesh C</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">An Aspiring Game Developer / Gameplay programmer</h3>
 
 - 🔭 I’m currently working on **a 3D game based on a college campus**
