@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity/C++/C#**
 
-- 📫 How to reach me **venkatesh23102003@gmail.com**
+- 📫 How to reach me **Venkateshajay@proton.me**
 
 - ⚡ Fun fact **I am a lefty**
 
